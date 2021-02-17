@@ -61,5 +61,6 @@ public class Students {
         studentObject.setMatriculation_number("FPB/99/36145");
         System.out.println("Student name: "+studentObject.getName());
         System.out.println("Student matric no:" +studentObject.getMatriculation_number());
+        System.out.println
     }
 }
